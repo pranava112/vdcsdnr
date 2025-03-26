@@ -1,0 +1,57 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .search-bar {
+    margin: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: red;
+    margin: 10px 0;
+  }
+  
+  .ebooks-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .ebook {
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 200px;
+    text-align: left;
+  }
+  
+  .ebook img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .ebook a {
+    display: block;
+    margin-top: 10px;
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .ebook a:hover {
+    text-decoration: underline;
+  }
+  
