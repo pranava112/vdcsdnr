@@ -52,6 +52,8 @@ function Home() {
   return (
     <>
       <div id='heading' className="bg-gray-100 m-8">
+
+        
         
         {/* <section id='heading1' className=" bg-gray-300 text-white py-4 m-8"> */}
         <section id='heading1' className="bg-gray-300 text-white py-4 m-8 container mx-auto my-8  gap-8">
@@ -59,8 +61,6 @@ function Home() {
           <marquee className=" text-black  text-center mt-2 text-lg" direction="left">{info.information}</marquee>
         </section>
 
-        <Slider/>
-        
         <section id='heading' className="container mx-auto my-8 grid grid-cols-1 md:grid-cols-1 gap-8">
           
           <section  className="bg-slate-300  grid grid-cols-2 sm:grid-cols-8 gap-4 p-6 m-2">
@@ -140,6 +140,10 @@ function Home() {
 
           </section>
         </section>
+
+        <Slider/>
+        
+       
 
 {/* /////////// img ///////// */}
       
