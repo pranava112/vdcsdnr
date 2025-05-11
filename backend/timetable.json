@@ -1,0 +1,24 @@
+{
+  "timetable": [
+    {
+      "group": "B-COM-1",
+      "class1": "bom",
+      "class2": "english",
+      "class3": "accounts",
+      "class5": "FIT",
+      "class6": "accounts",
+      "class7": "telugu",
+      "id": "1348"
+    },
+    {
+      "group": "B-COM-2",
+      "class1": "aaaaaaaa",
+      "class2": "bbbbbb",
+      "class3": "cccccc",
+      "class5": "dddddddd",
+      "class6": "eeeeeee",
+      "class7": "ffffffffff",
+      "id": "43e7"
+    }
+  ]
+}

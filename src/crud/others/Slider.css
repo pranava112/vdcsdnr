@@ -1,0 +1,44 @@
+/* Slider.css */
+
+/* General carousel styles */
+.carousel {
+    margin: 20px auto;
+    max-width: 1250px;
+    /* max-height:800px; */
+    border-radius: 10px;
+    overflow:hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Slide images */
+  .custom-slide-img {
+    object-fit: cover;
+    height: 400px;
+  }
+  
+  /* Caption styles */
+  .custom-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    /*Semi-transparentblackbackground*/border-radius: 5px;
+    padding: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+  
+  .custom-caption h5 {
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
+  .custom-caption p {
+    font-size: 1rem;
+    color: #ddd;
+  }
+  
+
+  /* #slider{
+    width: 100%;
+    height:100%;
+  } */
