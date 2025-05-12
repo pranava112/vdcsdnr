@@ -195,7 +195,7 @@ function Home() {
 
 <section className='m-1 bg-gray-300 p-8 shadow-lg rounded-lg'>
   <p className='text-2xl text-black border-black p-8 m-4'>
-  Welcome to [Vignan Degree College], where education meets excellence and dreams turn into reality. Our institution is dedicated to fostering knowledge, creativity, and innovation, ensuring that every student is equipped with the skills needed to thrive in the modern world.
+  Welcome to Vignan Degree College, where education meets excellence and dreams turn into reality. Our institution is dedicated to fostering knowledge, creativity, and innovation, ensuring that every student is equipped with the skills needed to thrive in the modern world.
 
 We believe in holistic learning beyond textbooks where curiosity leads to discovery, hard work paves the way for success, and values build strong character. Whether you are here to pursue academics, explore new ideas, or develop lifelong skills, we are committed to guiding you every step of the way.
 

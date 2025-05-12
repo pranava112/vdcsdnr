@@ -1,9 +1,10 @@
-import axios from 'axios';
-import React, {  useEffect, useState } from 'react'
-import { IoLogIn } from 'react-icons/io5'
 import { NavLink, useNavigate } from 'react-router-dom'
-import { v4 as uuidv4 } from "uuid";
+import React, { useEffect, useState } from 'react'
+
 import Api from './crud/others/Api';
+import { IoLogIn } from 'react-icons/io5'
+import axios from 'axios';
+import { v4 as uuidv4 } from "uuid";
 
 const Header = () => {
 
@@ -78,7 +79,7 @@ const Header = () => {
              <div className="flex items-center mb-4 md:mb-0">
                <img
                 //  src="https://yt3.googleusercontent.com/ytc/AIdro_mU5D_G08YZ0QedUAUyFvhEdmbkn-iojbIxdj5Po8MkqQ=s900-c-k-c0x00ffffff-no-rj"
-                src="../logo.jpg" 
+                src="../college logo.png" 
                 alt="logo"
                  className="w-16 h-16 rounded-full"
                  id='logo'
